@@ -1,5 +1,5 @@
-#Camel
+#Camel-Components-CXF
 
-This folder contains a collection of Camel Project using CXF
+This folder contains a collection of Project that uses Camel CXF Component 
 
-* Camel-Components : This folder contains a list of Camel Project that shows an example or use case for using the various camel components 
+* SOAP : This folder contains a list of Camel Project using CXF Component more specific to SOAP, WSDL Webservices
