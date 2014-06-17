@@ -6,3 +6,5 @@ This project uses
 * Blueprint for camel routes and DI 
 * Processor class for consuming the request and giving the response back to the caller 
 * JaxWS factory bean for creating client call from java code 
+
+This is an OSGI-Based project and it is packed as bundle
