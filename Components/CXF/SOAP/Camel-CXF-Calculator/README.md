@@ -4,8 +4,8 @@ This project is an usecase or sample for exposing a cxf soap based webservice us
 
 This project uses 
 * Blueprint DSL for camel routes and DI
-* CXF Bean component and its dataformat is set to MESSAGE
-* JAXB Dataformat for Marshalling and Unmarshalling the request
+* CXF Bean component and its dataformat is set to PAYLOAD
+* JAXB Dataformat for Unmarshalling the request
 * CBR EIP for routing the request to the appropriate Processor class based on the operationName
 * Processor class for consuming the request and setting the response back to the caller 
 *  &lt;transform &gt; &  &lt;simple&gt; for sending the response back to the caller
